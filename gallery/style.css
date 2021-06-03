@@ -1,0 +1,58 @@
+.center {
+display: block;
+width:190px;
+height:190px;
+BORDER: 3PX SOLID WHITE ;
+padding: 20px;
+}
+h1 {
+color: white ;
+font-size: 100px;
+}
+h2 {
+color: white ;
+font-size: 70px;
+}
+
+
+.row {
+  display: float;
+}
+
+.column {
+  float: left;
+  padding: 5px;
+}
+#fitness{
+	background-color:white;
+}
+#menu{
+	font-size: 22px;
+	text-align:left;
+	margin-left:10px;
+	width:800px;
+	float:left;
+	position:relative;
+	top:12px;
+	
+}
+#signin{
+	background-color: green;
+	text-align:right;
+	margin-right:10px;
+	border:solid;
+}
+.icon{
+	width: 22px;
+	padding: 10px;
+}
+.logo{
+	width:500px;
+}
+#fitness{
+	background-color:white;
+}
+a{
+	color: white;
+	text-decoration:none;
+}

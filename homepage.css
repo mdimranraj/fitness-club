@@ -1,0 +1,91 @@
+a{
+	color: white;
+	text-decoration:none;
+}
+.sign{
+	color:blue;
+	text-decoration:underline;
+}
+.logo{
+	width:500px;
+}
+#fitness{
+	background-color:white;
+}
+.icon{
+	width: 22px;
+	padding: 10px;
+}
+#signin{
+	background-color: green;
+	text-align:right;
+	margin-right:10px;
+	border:solid;
+}
+#menu{
+	font-size: 22px;
+	text-align:left;
+	margin-left:10px;
+	width:800px;
+	float:left;
+	position:relative;
+	top:12px;
+	
+}
+#left {
+			background-color:white;
+			border:solid;
+			width: 175px;
+			padding: 10px 10px;
+			height: 80%;
+			float:left;
+			margin-left: 10px;
+		}
+#main {
+			background-color:white;
+			background-image: url("mainbck.jpg");
+			background-position:center;
+			background-size: 100% 100%;
+			border: solid;
+			padding: 10px 20px;
+			width: 670px;
+			height: 80%;
+			float:left;
+			margin-left: 10px;
+		}
+		
+#right {	
+			background-color:white;
+			border:solid;
+			width: 260px;
+			height: 80%;
+			padding: 10px 10px;
+			margin-right: 10px;
+			float:left;
+			margin-left: 10px;
+		}
+#happening{
+			border:solid;
+			width: 175px;
+			padding: 10px 10px;
+			float:left;
+			margin-left:10px;
+			clear:left;
+		}
+body{
+	background-color:black;
+}
+.news{
+	color: rgb(150,10,10);
+    text-shadow: 0 0 5px #fff,
+                 0 0 10px #fff, 
+                 0 0 20px green, 
+                 0 0 30px green, 
+                 0 0 40px yellow, 
+                 0 0 55px green, 
+                 0 0 70px green;
+}
+
+#left-below{
+		margin-top:150px;
+}

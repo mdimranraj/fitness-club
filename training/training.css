@@ -1,0 +1,83 @@
+body {
+ background-color:black;
+}
+.myDiv1 {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom:10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.myDiv2 {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.myDiv3 {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+ margin-top: 10px;
+  margin-bottom:10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.myDiv4 {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+ margin-top: 10px;
+  margin-bottom:10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.myDiv5 {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+ margin-top: 10px;
+  margin-bottom:10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#fitness{
+	background-color:white;
+}
+#menu{
+	font-size: 22px;
+	text-align:left;
+	margin-left:10px;
+	width:800px;
+	float:left;
+	position:relative;
+	top:12px;
+	
+}
+#signin{
+	color:black;
+	background-color: green;
+	text-align:right;
+	margin-right:10px;
+	border:solid;
+}
+.icon{
+	width: 22px;
+	padding: 10px;
+}
+.logo{
+	width:500px;
+}
+#fitness{
+	background-color:white;
+}
+a{
+	color: white;
+	text-decoration:none;
+}
